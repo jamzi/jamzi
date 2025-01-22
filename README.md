@@ -10,7 +10,7 @@ Here are some of my current projects:
 - [**Billable Ninja**](https://www.billableninja.com)  
   Simplify timesheet submissions directly in Slack.
 
-- [**Simple Org Chart**](https://wwws.simpleorgchart.com)  
+- [**Simple Org Chart**](https://www.simpleorgchart.com)  
   Effortless organizational charts for HR and management.  
 
 ---
